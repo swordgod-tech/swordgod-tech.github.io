@@ -1,0 +1,47 @@
+body {
+    background-color:#F0F0F0;
+}
+
+main {
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.avatar {
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+}
+
+.info {
+    width: 29%;
+    float: left;
+    margin-right: 1%;
+    background-color: white;
+    text-align: center;
+    font-family: 'Noto Serif TC', serif;
+}
+
+.info h1 {
+    font-size: 1.2em;
+    font-weight: 100;
+}
+
+.info h2 {
+    font-size: 1em;
+    font-weight: 100;
+    color: gray;
+}
+
+.info .bio {
+    background-color: #EDFBDF;
+}
+
+.content {
+    width: 70%;
+    float: left;
+    background-color: #FBECDA;
+}
